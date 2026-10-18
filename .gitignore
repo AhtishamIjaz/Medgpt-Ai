@@ -38,3 +38,15 @@ backend/.env
 
 # Chroma cache / temp logs
 *.log
+
+# Thesis documents and scripts
+*.doc
+*.docx
+thesis_images/
+build_defense_ppt.py
+build_full_thesis.py
+gen_images.py
+generate_thesis.py
+read_doc.py
+read_doc2.py
+template_content.txt
